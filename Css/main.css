@@ -1,0 +1,95 @@
+
+img{
+	max-width: 50%;
+}
+
+/*!!!!!!!!!!!!!!!!!!CLASES!!!!!!!!!!!!!!!!*/
+
+
+.fondo_cuerpo{
+	background-color: #F1E1FA;
+}
+
+.color_nav{
+	background-color: #C93232;	
+}
+
+/*Tipografias*/
+.retraso1{
+	animation-delay: 0.5s;
+}
+
+.PerMar{
+	font-family: 'Permanent Marker', cursive;
+}
+.roboto{	
+	font-family: 'Roboto', sans-serif;
+}
+.Lpress{
+	font-family: 'Press Start 2P', cursive;	
+}
+.tamañoP{
+	font-size: 25%;
+}
+/*texto*/
+
+.center{
+	text-align: center;
+}
+.subir{
+	vertical-align: top;
+}
+.bajar{
+	vertical-align: bottom;
+}
+.espacioDer{
+	margin-right:5%;
+}
+.espacioIzq{
+	margin-left: 10%;
+}
+.q{
+	margin-right: 15%;
+	margin-left: 15%;
+}
+.margen{
+	margin-top: 5%;
+}
+.p{
+	float: none;
+	display: inline-block;
+}
+/*Colores! - escalados como el 1 el mas claro al 5 el mas oscuro*/
+.gris1{
+	color: #F2F2F2;
+}
+.marron{
+	color: #260101;
+}
+.purpOp{
+	color: #B099BF;
+}
+.purp{
+	color: #C93232;
+}
+.marrOp{
+	color: #40010D;
+}
+.padding_largo{
+	padding: 10px 10px;
+}
+
+/*clases de estilos*/
+.quitar-float{
+	float: none;
+}
+
+/*selectores combinacion entre clase y estiqueta*/
+.no-list li{
+	list-style-type: none;
+}
+.inline-block{
+	float: none;
+	display: inline-block;
+	margin-right: -4px;
+}
